@@ -1,0 +1,3 @@
+<a href={{ s.url }}><span class="paper_title">{{ s.title }}</span></a><br />
+{{ s.host }}
+<p> </p>

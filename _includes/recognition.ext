@@ -1,0 +1,7 @@
+<a href={{ rec.url }}><span class="paper_title">{{ rec.name }}</span></a><br />
+<b>Organization</b> - {{ rec.host }}<br />
+<p>
+{% if rec.value %}
+  <b>Value</b> - {{rec.value}}
+{% endif %}
+</p>

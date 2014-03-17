@@ -1,0 +1,12 @@
+<a href="{{ post.url }}"><span class="paper_title">{{ post.title }}</span></a><br />
+<b>Authors</b> - {{ post.authors }} <br />
+<b>Venue</b> - {{ post.venue }}, {{ post.pages }}, {{ post.pubyear }}
+<br />
+{% if post.acceptance %}
+<b>Acceptance rate</b> - {{ post.acceptance }} <br \>
+{% endif %}
+<h6><b>Topics</b> -
+{% for tag in post.tags %}
+  <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
+{% endfor %}
+</h6>

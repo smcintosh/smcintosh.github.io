@@ -1,0 +1,22 @@
+- name: Top Ph.D. Student Presentation
+  host: International Symposium on Augmenting Software Developer Support to Improve Productivity (ASDS)
+  value: 250 CHF
+  url: http://www.ifi.uzh.ch/seal/events/ASDS-2013.html
+
+- name: Distinguished M.Sc. Thesis
+  host: Queen's University School of Computing
+  url: http://www.cs.queensu.ca/aboutus/awards.php
+
+- name: ACM Student Research Competition Finalist
+  host: International Conference on Software Engineering (ICSE 2011)
+  value: $500
+  url: http://2011.icse-conferences.org/content/src-call
+
+- name: CAPS Merit Award
+  host: ACM Special Interest Group on Software Engineering (SIGSOFT)
+  value: $700
+  url: http://www.sigsoft.org/CAPS/
+
+- name: Paper invited for journal extension
+  host: Working Conference on Mining Software Repositories (MSR 2010)
+  url: http://msr.uwaterloo.ca/msr2010/

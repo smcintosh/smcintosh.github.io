@@ -1,0 +1,94 @@
+---
+layout: index 
+title: Shane McIntosh - Ph.D. Student
+---
+
+<div class="row">
+  <div class="large-6 columns">
+    <h2 id="about">About Me</h2>
+    <p>I am a PhD student in the SAIL lab at Queen's University. My research interests include mining software repositories and empirical software engineering, specifically, with respect to the creation and maintenance of build systems (e.g., makefiles) and release engineering.</p>
+  </div>
+  <div class="large-6 columns">
+    <img src="/assets/shane.jpg" width=240px />
+  </div>
+</div>
+
+<hr />
+
+<div class="row" >
+  <div class="large-12 columns">
+  <h2 id="publications">Publications</h2>
+  <h3>International Journal Papers</h3>
+  <ol class="posts">
+    {% for post in site.posts %}
+      {% if post.type == "journalpaper" %}
+      <li>    
+        {% include paper.ext %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+
+  <h3>International Conference Papers</h3>
+  <ol class="posts">
+    {% for post in site.posts %}
+      {% if post.type == "confpaper" %}
+      <li>    
+        {% include paper.ext %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+
+  <h3>Theses</h3>
+  <ol class="posts">
+    {% for post in site.posts %}
+      {% if post.type == "thesis" %}
+      <li>    
+        {% include paper.ext %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="large-12 columns">
+  <h2 id="recognition">Recognition</h2>
+  <h3>Scholarships</h3>
+  <ol class="posts">
+    {% for sc in site.data.scholarships %}
+    <li>    
+      {% include scholarship.ext %}
+    </li>
+    {% endfor %}
+  </ol>
+
+  <h3>Awards</h3>
+  <ol class="posts">
+    {% for rec in site.data.recognition %}
+    <li>    
+      {% include recognition.ext %}
+    </li>
+    {% endfor %}
+  </ol>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="large-12 columns">
+  <h2 id="service">Service</h2>
+  <ol class="posts">
+    {% for s in site.data.service %}
+    <li>    
+      {% include service.ext %}
+    </li>
+    {% endfor %}
+  </ol>
+  </div>
+</div>

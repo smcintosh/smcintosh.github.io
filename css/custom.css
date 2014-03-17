@@ -1,0 +1,23 @@
+span.paper_title {
+	font-size: 20pt;
+	line-height: 22pt;
+}
+h3.closer {
+	line-height: 22pt;
+}
+
+li {
+	margin: 0 0 20pt 0;
+}
+span.taglink {
+	padding: 1pt 3pt 1pt 3pt;
+	background-color: #DDDDDD;
+	border: 2pt solid #BBBBBB;
+}
+pre {
+	white-space: pre;
+	overflow: auto;
+	background-color: #EFEFEF;
+	border: 1pt solid #DDDDDD;
+
+}
