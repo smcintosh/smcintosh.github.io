@@ -1,5 +1,5 @@
 name: Shane McIntosh - Ph.D. Student
 markdown: redcarpet
 pygments: true
-taglist: ["build-systems", "web-applications", "software-evolution", "sonification", "code-cloning"]
+taglist: ["build-systems", "web-applications", "software-evolution", "sonification", "code-cloning", "software-quality", "code-reviewing"]
 yearlist: ["2010", "2011", "2012", "2013", "2014"]
