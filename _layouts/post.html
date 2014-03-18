@@ -6,7 +6,7 @@ layout: index
   <h3 class="closer">{{ page.title }}</h3>
   <h6><b>Authors</b> - {{ page.authors }}<br />
 	  <b>Venue</b> - {{ page.venue }}, {{ page.pages }}, {{ page.pubyear }}</h6>
-  <h6><b>Topics</b> -
+  <h6 class="taglist"><b>Topics</b> -
   {% for tag in page.tags %}
     <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
   {% endfor %}

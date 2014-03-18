@@ -9,10 +9,14 @@ h3.closer {
 li {
 	margin: 0 0 20pt 0;
 }
+h6.taglist {
+	line-height: 22pt;
+}
 span.taglink {
 	padding: 1pt 3pt 1pt 3pt;
 	background-color: #DDDDDD;
 	border: 2pt solid #BBBBBB;
+	white-space: nowrap;
 }
 pre {
 	white-space: pre;
