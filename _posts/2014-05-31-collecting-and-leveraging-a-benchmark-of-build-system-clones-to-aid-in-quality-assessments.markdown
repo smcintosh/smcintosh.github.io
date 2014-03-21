@@ -15,7 +15,7 @@ abstract: "Build systems specify how sources are transformed into deliverables, 
 @inproceedings{mcintosh2014icseseip,
 	Author={Shane McIntosh and Martin Poehlmann and Elmar Juergens and Audris Mockus and Bram Adams and Ahmed E. Hassan and Brigitte Haupt and Christian Wagner},
 	Title = {Collecting and Leveraging a Benchmark of Build System Clones to Aid in Quality Assessments},
-	Booktitle = {Proc. of the 36th Int'l Conf. on Software Engineering (ICSE), Software Engineering In Practice (SEIP) track},
+	Booktitle = {Proc. of the 36th Int'l Conf. on Software Engineering (ICSE)},
 	Volume = {2}
 	Pages = {115-124},
 	Year = {2011}
