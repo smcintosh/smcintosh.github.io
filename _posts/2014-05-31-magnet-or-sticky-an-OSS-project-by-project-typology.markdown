@@ -6,7 +6,7 @@ title: "Magnet or Sticky? An OSS Project-by-Project Typology"
 authors: "Kazuhiro Yamashita, <u>Shane McIntosh</u>, Yasutaka Kamei, and Naoyasu Ubayashi"
 tags: ["software-evolution"]
 venue: Proc. of the 11th Working Conference on Mining Software Repositories (MSR), mining challenge track
-pages: 343-346
+pages: pp. 343-346
 pubyear: 2014
 acceptance: "9/19 (47%)"
 preprint: "http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Yamashita_MSRChallenge2014.pdf"
