@@ -2,7 +2,7 @@
 layout: post
 date:  2010-05-02 00:00:00
 type: "confpaper"
-title: "The evolution of ANT build systems"
+title: "The Evolution of ANT Build Systems"
 authors: "<u>Shane McIntosh</u>, Bram Adams, and Ahmed E. Hassan"
 tags: ["build-systems", "software-evolution"]
 venue: Proc. of the 7th Working Conference on Mining Software Repositories (MSR)
@@ -14,7 +14,7 @@ abstract: "Build systems are responsible for transforming static source code art
 ---
 @inproceedings{mcintosh2010msr,
 	Author={Shane McIntosh and Bram Adams and Ahmed E. Hassan},
-	Title = {The evolution of {ANT} build systems},
+	Title = {The Evolution of {ANT} Build Systems},
 	Booktitle = {Proc. of the 7th Working Conf. on Mining Software Repositories (MSR)},
 	Pages = {42-51},
 	Year = {2010}
