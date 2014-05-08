@@ -6,7 +6,7 @@ title: "The Impact of Code Review Coverage and Code Review Participation on Soft
 authors: "<u>Shane McIntosh</u>, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan"
 tags: ["code-review", "software-quality"]
 venue: Proc. of the 11th Working Conference on Mining Software Repositories (MSR)
-pages: pp. 21-30
+pages: pp. 192-201
 pubyear: 2014
 acceptance: "29/85 (34%)"
 preprint: "http://sail.cs.queensu.ca/publications/pubs/msr2014-mcintosh.pdf"

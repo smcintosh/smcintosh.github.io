@@ -6,7 +6,7 @@ title: "Collecting and Leveraging a Benchmark of Build System Clones to Aid in Q
 authors: "<u>Shane McIntosh</u>, Martin Poehlmann, Elmar Juergens, Audris Mockus, Bram Adams, Ahmed E. Hassan, Brigitte Haupt, and Christian Wagner"
 tags: ["build-systems", "code-cloning"]
 venue: Proc. of the 36th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) track
-pages: vol. 2, pp. 115-124
+pages: vol. 2, pp. 145-154
 pubyear: 2014
 acceptance: "25/117 (21%)"
 preprint: "http://sail.cs.queensu.ca/publications/pubs/icseseip2014-mcintosh.pdf"
