@@ -16,6 +16,6 @@ abstract: "Software code review, i.e., the practice of having third-party team m
 	Author={Shane McIntosh and Yasutaka Kamei and Bram Adams and Ahmed E. Hassan},
 	Title = {The Impact of Code Review Coverage and Code Review Participation on Software Quality: A Case Study of the Qt, VTK, and ITK Projects},
 	Booktitle = {Proc. of the 11th Working Conf. on Mining Software Repositories (MSR)},
-	Pages = {21-30},
+	Pages = {192-201},
 	Year = {2014}
 }

@@ -16,6 +16,6 @@ abstract: "Prior research suggests that predicting defect-introducing changes, i
 	Author={Takafumi Fukushima and Yasutaka Kamei and Shane McIntosh and Kazuhiro Yamashita and Naoyasu Ubayashi},
 	Title = {An Empirical Study of Just-In-Time Defect Prediction Using Cross-Project Models},
 	Booktitle = {Proc. of the 11th Working Conf. on Mining Software Repositories (MSR)},
-	Pages = {11-20},
+	Pages = {172-181},
 	Year = {2014}
 }

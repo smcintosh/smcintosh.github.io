@@ -17,6 +17,6 @@ abstract: "Build systems specify how sources are transformed into deliverables, 
 	Title = {Collecting and Leveraging a Benchmark of Build System Clones to Aid in Quality Assessments},
 	Booktitle = {Proc. of the 36th Int'l Conf. on Software Engineering (ICSE)},
 	Volume = {2}
-	Pages = {115-124},
+	Pages = {145-154},
 	Year = {2011}
 }

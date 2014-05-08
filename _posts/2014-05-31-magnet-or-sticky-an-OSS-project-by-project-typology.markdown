@@ -16,6 +16,6 @@ abstract: "For Open Source Software (OSS) projects, retaining existing contribut
 	Author={Kazuhiro Yamashita and Shane McIntosh and Yasutaka Kamei and Naoyasu Ubayashi},
 	Title = {Magnet or Sticky? An OSS Project-by-Project Typology},
 	Booktitle = {Proc. of the 11th Working Conf. on Mining Software Repositories (MSR)},
-	Pages = {343-346},
+	Pages = {344-347},
 	Year = {2014}
 }
