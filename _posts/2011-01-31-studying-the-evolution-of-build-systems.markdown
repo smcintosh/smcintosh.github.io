@@ -8,6 +8,7 @@ tags: ["build-systems", "software-evolution"]
 venue: Queen's University
 pages: "Master's Thesis"
 pubyear: 2011
+award: "Distinguished thesis award"
 preprint: "http://sail.cs.queensu.ca/publications/pubs/masterthesis2011_mcintosh.pdf"
 abstract: "As a software project ages, its source code is improved by refining existing features, adding new ones, and fixing bugs. Software developers can attest that such changes often require accompanying changes to the infrastructure that converts source code into executable software packages, i.e., the build system. Intuition suggests that these build system changes slow down development progress by diverting developer focus away from making improvements to the source code.
 <p>

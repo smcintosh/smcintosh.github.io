@@ -1,11 +1,14 @@
 <a href="{{ post.url }}"><span class="paper_title">{{ post.title }}</span></a><br />
+{% if post.award %}
+<img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ post.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
+{% endif %}
 <b>Authors</b> - {{ post.authors }} <br />
 <b>Venue</b> - {{ post.venue }}, {{ post.pages }}, {{ post.pubyear }}
 <br />
 {% if post.acceptance %}
-<b>Acceptance rate</b> - {{ post.acceptance }} <br \>
+<b>Acceptance rate</b> - {{ post.acceptance }} <br />
 {% endif %}
-<b>Preprint</b> - <a href={{ post.preprint }}>PDF</a> <br \>
+<b>Preprint</b> - <a href={{ post.preprint }}>PDF</a> <br />
 <h6 class="taglist"><b>Topics</b> -
 {% for tag in post.tags %}
   <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
