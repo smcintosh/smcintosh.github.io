@@ -1,3 +1,11 @@
+- name: Distinguished Paper Award
+  host: Working Conference on Mining Software Repositories (MSR 2014)
+  url: http://2014.msrconf.org/
+
+- name: Papers invited for journal extensions
+  host: Working Conference on Mining Software Repositories (MSR 2014)
+  url: http://2014.msrconf.org/
+
 - name: Top Ph.D. Student Presentation
   host: International Symposium on Augmenting Software Developer Support to Improve Productivity (ASDS)
   value: 250 CHF
