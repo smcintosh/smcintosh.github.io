@@ -4,6 +4,9 @@ layout: index
 <article>
  
   <h3 class="closer">{{ page.title }}</h3>
+  {% if page.award %}
+    <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ page.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
+  {% endif %}
   <h6><b>Authors</b> - {{ page.authors }}<br />
 	  <b>Venue</b> - {{ page.venue }}, {{ page.pages }}, {{ page.pubyear }}</h6>
   <h6 class="taglist"><b>Topics</b> -
