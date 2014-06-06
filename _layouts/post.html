@@ -17,11 +17,11 @@ layout: index
  
   <p class="textblock"><b>Abstract</b> - {{ page.abstract }}</p>
   <p><b>Preprint</b> - <a href={{ page.preprint }}>PDF</a></p>
+  {% if page.slides %}
+  <p><b>Slides</b></p>
+  <p>{{ page.slides }}</p>
+  {% endif %}
   <p><b>Bibtex</b>
   {% highlight tex %}{{ page.content }}{% endhighlight %}
-  {% if page.slides %}
-    <p><b>Slides</b> - <a href={{ page.slides }}>Slideshare</a></p>
-  {% endif %}
-
  
 </article>
