@@ -1,7 +1,7 @@
 ---
 layout: post
 date:  2011-05-21 00:00:00
-type: "confpaper"
+type: "shortconfpaper"
 title: "Build System Maintenance"
 authors: "<u>Shane McIntosh</u>"
 tags: ["build-systems"]

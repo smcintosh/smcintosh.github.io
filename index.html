@@ -29,10 +29,21 @@ title: Shane McIntosh - Ph.D. Student
     {% endfor %}
   </ol>
 
-  <h3>International Conference Papers</h3>
+  <h3>International Conference Papers (Full)</h3>
   <ol class="posts">
     {% for post in site.posts %}
       {% if post.type == "confpaper" %}
+      <li>    
+        {% include paper.ext %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+
+  <h3>International Conference Papers (Short)</h3>
+  <ol class="posts">
+    {% for post in site.posts %}
+      {% if post.type == "shortconfpaper" %}
       <li>    
         {% include paper.ext %}
       </li>

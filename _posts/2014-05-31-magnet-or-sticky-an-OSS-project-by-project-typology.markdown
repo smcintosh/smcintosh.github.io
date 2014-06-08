@@ -1,7 +1,7 @@
 ---
 layout: post
 date:  2014-05-31 00:00:00
-type: "confpaper"
+type: "shortconfpaper"
 title: "Magnet or Sticky? An OSS Project-by-Project Typology"
 authors: "Kazuhiro Yamashita, <u>Shane McIntosh</u>, Yasutaka Kamei, and Naoyasu Ubayashi"
 tags: ["software-evolution"]

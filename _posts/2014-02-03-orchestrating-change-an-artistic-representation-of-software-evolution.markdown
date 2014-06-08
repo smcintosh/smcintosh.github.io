@@ -1,7 +1,7 @@
 ---
 layout: post
 date:  2014-02-03 00:00:00
-type: "confpaper"
+type: "shortconfpaper"
 title: "Orchestrating Change: An Artistic Representation of Software Evolution"
 authors: "<u>Shane McIntosh</u>, Katie Legere, and Ahmed E. Hassan"
 tags: ["software-evolution", "sonification"]
