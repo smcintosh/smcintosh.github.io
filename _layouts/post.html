@@ -16,7 +16,9 @@ layout: index
   </h6>
  
   <p class="textblock"><b>Abstract</b> - {{ page.abstract }}</p>
+  {% if page.preprint %}
   <p><b>Preprint</b> - <a href={{ page.preprint }}>PDF</a></p>
+  {% endif %}
   {% if page.slides %}
   <p><b>Slides</b></p>
   <p>{{ page.slides }}</p>
