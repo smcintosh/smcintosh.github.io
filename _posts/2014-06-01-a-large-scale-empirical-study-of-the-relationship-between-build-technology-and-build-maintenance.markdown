@@ -2,7 +2,7 @@
 layout: post
 date:  2014-06-01 00:00:00
 type: "journalpaper"
-title: "A large-scale empirical study of the relationship between build technology and build maintenance"
+title: "A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance"
 authors: "<u>Shane McIntosh</u>, Meiyappan Nagappan, Bram Adams, Audris Mockus, and Ahmed E. Hassan"
 tags: ["build-systems", "software-evolution"]
 venue: Empirical Software Engineering
@@ -12,7 +12,7 @@ abstract: "Build systems specify how source code is translated into deliverables
 ---
 @article{mcintosh2014emse,
 	Author={Shane McIntosh and Meiyappan Nagappan and Bram Adams and Audris Mockus and Ahmed E. Hassan},
-	Title = {A large-scale empirical study of the relationship between build technology and build maintenance},
+	Title = {A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance},
 	Journal = {Empirical Software Engineering},
 	Pages = {To appear},
 	Year = {2014}
