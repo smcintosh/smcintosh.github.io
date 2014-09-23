@@ -6,7 +6,7 @@ title: "Tracing Software Build Processes to Uncover License Compliance Inconsist
 authors: "Sander van der Burg, Eelco Dolstra, <u>Shane McIntosh</u>, Julius Davies, Daniel M. German, and Armijn Hemel"
 tags: ["build-systems", "software-licensing"]
 venue: Proc. of the 29th International Conference on Automated Software Engineering (ASE)
-pages: Accepted
+pages: pp. 731-741
 pubyear: 2014
 acceptance: "55/276 (20%)"
 slides: "<iframe src='http://www.slideshare.net/slideshow/embed_code/39283036' width='476' height='400' frameborder='0' marginwidth='0' marginheight='0' scrolling='no'></iframe>"
@@ -17,6 +17,6 @@ abstract: "Open Source Software (OSS) components form the basis for many softwar
 	Author={Sander van der Burg and Eelco Dolstra and Shane McIntosh and Julius Davies and Daniel M. German and Armijn Hemel},
 	Title = {Tracing Software Build Processes to Uncover License Compliance Inconsistencies},
 	Booktitle = {Proc. of the 29th Int'l Conf. on Automated Software Engineering (ASE)},
-	Pages = {To appear},
+	Pages = {731-741},
 	Year = {2014}
 }
