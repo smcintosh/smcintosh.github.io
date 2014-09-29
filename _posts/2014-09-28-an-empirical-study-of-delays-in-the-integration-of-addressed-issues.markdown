@@ -6,7 +6,7 @@ title: "An Empirical Study of Delays in the Integration of Addressed Issues"
 authors: "Daniel Alencar da Costa, Surafel Lemma Abebe, <u>Shane McIntosh</u>, Uirá Kulesza, and Ahmed E. Hassan"
 tags: ["integration"]
 venue: Proc. of the 30th International Conference on Software Maintenance and Evolution (ICSME)
-pages: Accepted
+pages: "pp. 281-290"
 pubyear: 2014
 acceptance: "40/210 (19%)"
 preprint: "http://sail.cs.queensu.ca/publications/pubs/icsme2014-costa.pdf"
@@ -16,6 +16,6 @@ abstract: "Predicting the time required to address an issue (i.e., a feature, bu
 	Author={Daniel Alencar da Costa and Surafel Lemma Abebe and Shane McIntosh and Uirá Kulesza and Ahmed E. Hassan},
 	Title = {An Empirical Study of Delays in the Integration of Addressed Issues},
 	Booktitle = {Proc. of the 30th Int'l Conf. on Software Maintenance and Evolution (ICSME)},
-	Pages = {To appear},
+	Pages = {281-290},
 	Year = {2014}
 }
