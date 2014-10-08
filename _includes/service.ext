@@ -1,3 +1,7 @@
-<a href={{ s.url }}><span class="paper_title">{{ s.title }}</span></a><br />
-{{ s.host }}
+<span class="paper_title">{{ s.title }}</span><br />
+<ul class="servlist">
+{% for h in s.host %}
+  <li class="servitem">{{ h }}</li>
+{% endfor %}
+</ul>
 <p> </p>

@@ -28,3 +28,10 @@ pre {
 p.textblock {
 	text-align: justify;
 }
+ul.servlist {
+	list-style-type: square;
+}
+li.servitem {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
