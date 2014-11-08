@@ -1,7 +1,9 @@
-<a href={{ rec.url }}><span class="paper_title">{{ rec.name }}</span></a><br />
-<b>Organization</b> - {{ rec.host }}<br />
-<p>
+<span class="paper_title">{{ rec.name }}</span><br />
+<ul class="servlist">
+{% for h in rec.host %}
+  <li class="servitem">{{ h }}</li>
+{% endfor %}
 {% if rec.value %}
-  <b>Value</b> - {{rec.value}}
+  <!-- <b>Value</b> - {{rec.value}} -->
 {% endif %}
-</p>
+</ul>
