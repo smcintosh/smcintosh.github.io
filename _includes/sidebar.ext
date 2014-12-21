@@ -26,7 +26,7 @@
 	{% endif %}
       {% endfor %}
 
-      <li class="tagitem"><a href="/venues/{{venue}}.html"><span class="taglink">{{venue}}</span></a> x {{pcount}}</li>
+      <li class="tagitem"><a href="/venues/{{venue | downcase}}.html"><span class="taglink">{{venue}}</span></a> x {{pcount}}</li>
     {% endfor %}
   </ul>
 

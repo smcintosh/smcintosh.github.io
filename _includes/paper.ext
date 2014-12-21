@@ -3,7 +3,7 @@
 <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ post.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
 {% endif %}
 <b>Authors</b> - {{ post.authors }} <br />
-<b>Venue</b> - <a href="/venues/{{post.vtag}}.html"><span class="taglink">{{post.vtag}}</span></a> <a href="/year/{{post.pubyear}}.html"><span class="taglink">{{post.pubyear}}</span></a>: {{ post.venue }}{% if post.track %}, {{ post.track }}{% endif %}, {{ post.pages }}</h6>
+<b>Venue</b> - <a href="/venues/{{post.vtag | downcase}}.html"><span class="taglink">{{post.vtag}}</span></a> <a href="/year/{{post.pubyear}}.html"><span class="taglink">{{post.pubyear}}</span></a>: {{ post.venue }}{% if post.track %}, {{ post.track }}{% endif %}, {{ post.pages }}</h6>
 <br />
 {% if post.acceptance %}
 <b>Acceptance rate</b> - {{ post.acceptance }} <br />
