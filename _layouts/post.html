@@ -8,7 +8,7 @@ layout: index
     <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ page.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
   {% endif %}
   <h6><b>Authors</b> - {{ page.authors }}<br />
-	  <b>Venue</b> - <a href="/venues/{{page.vtag}}.html"><span class="taglink">{{page.vtag}}</span></a>: {{ page.venue }}{% if page.track %}, {{ page.track }}{% endif %}, {{ page.pages }}, {{ page.pubyear }}</h6>
+	  <b>Venue</b> - <a href="/venues/{{page.vtag}}.html"><span class="taglink">{{page.vtag}}</span></a> <a href="/year/{{page.pubyear}}.html"><span class="taglink">{{page.pubyear}}</span></a>: {{ page.venue }}{% if page.track %}, {{ page.track }}{% endif %}, {{ page.pages }}</h6>
   <h6 class="taglist"><b>Topics</b> -
   {% for tag in page.tags %}
     <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
