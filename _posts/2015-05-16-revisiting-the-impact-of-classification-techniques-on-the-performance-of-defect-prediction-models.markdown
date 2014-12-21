@@ -5,7 +5,8 @@ type: "confpaper"
 title: "Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models"
 authors: "Baljinder Ghotra, <u>Shane McIntosh</u>, and Ahmed E. Hassan"
 tags: ["software-quality"]
-venue: Proc. of the 37th International Conference on Software Engineering (ICSE)
+venue: International Conference on Software Engineering
+vtag: ICSE
 pubyear: 2015
 pages: "to appear"
 acceptance: "84/452 (19%)"

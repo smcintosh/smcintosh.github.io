@@ -5,7 +5,8 @@ type: "confpaper"
 title: "An Empirical Study of Just-In-Time Defect Prediction Using Cross-Project Models"
 authors: "Takafumi Fukushima, Yasutaka Kamei, <u>Shane McIntosh</u>, Kazuhiro Yamashita, and Naoyasu Ubayashi"
 tags: ["software-quality"]
-venue: Proc. of the 11th Working Conference on Mining Software Repositories (MSR)
+venue: Working Conference on Mining Software Repositories
+vtag: MSR
 pages: pp. 172-181
 pubyear: 2014
 acceptance: "29/85 (34%)"

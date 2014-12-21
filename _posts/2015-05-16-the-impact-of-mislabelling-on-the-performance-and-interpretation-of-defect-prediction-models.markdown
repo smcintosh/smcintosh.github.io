@@ -5,7 +5,8 @@ type: "confpaper"
 title: "The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models"
 authors: "Chakkrit Tantithamthavorn, <u>Shane McIntosh</u>, Ahmed E. Hassan, Akinori Ihara, and Ken-ichi Matsumoto"
 tags: ["software-quality"]
-venue: Proc. of the 37th International Conference on Software Engineering (ICSE)
+venue: International Conference on Software Engineering
+vtag: ICSE
 pubyear: 2015
 pages: "to appear"
 acceptance: "84/452 (19%)"

@@ -5,7 +5,8 @@ type: "confpaper"
 title: "The Impact of Code Review Coverage and Code Review Participation on Software Quality: A Case Study of the Qt, VTK, and ITK Projects"
 authors: "<u>Shane McIntosh</u>, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan"
 tags: ["code-review", "software-quality"]
-venue: Proc. of the 11th Working Conference on Mining Software Repositories (MSR)
+venue: Working Conference on Mining Software Repositories
+vtag: MSR
 pages: pp. 192-201
 pubyear: 2014
 acceptance: "29/85 (34%)"

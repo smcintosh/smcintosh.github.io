@@ -6,6 +6,7 @@ title: "A Large-Scale Empirical Study of the Relationship between Build Technolo
 authors: "<u>Shane McIntosh</u>, Meiyappan Nagappan, Bram Adams, Audris Mockus, and Ahmed E. Hassan"
 tags: ["build-systems", "software-evolution"]
 venue: Empirical Software Engineering
+vtag: EMSE
 pages: Accepted
 pubyear: 2014
 preprint: "http://sail.cs.queensu.ca/publications/pubs/emse2014-mcintosh-preprint.pdf"

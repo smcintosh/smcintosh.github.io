@@ -6,6 +6,7 @@ title: "The evolution of Java build systems"
 authors: "<u>Shane McIntosh</u>, Bram Adams, and Ahmed E. Hassan"
 tags: ["build-systems", "software-evolution"]
 venue: Empirical Software Engineering
+vtag: EMSE
 pages: Vol. 17(4-5):578-608
 pubyear: 2012
 preprint: "http://sail.cs.queensu.ca/publications/pubs/emse2011_mcintosh.pdf"

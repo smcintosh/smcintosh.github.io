@@ -5,7 +5,8 @@ type: "confpaper"
 title: "Using Indexed Sequence Diagrams to Recover the Behaviour of AJAX Applications"
 authors: "<u>Shane McIntosh</u>, Bram Adams, and Ahmed E. Hassan"
 tags: ["web-applications"]
-venue: Proc. of the 13th International Symposium on Web Systems Evolution (WSE)
+venue: International Symposium on Web Systems Evolution
+vtag: WSE
 pages: pp. 1-10
 pubyear: 2011
 acceptance: "8/24 (33%)"

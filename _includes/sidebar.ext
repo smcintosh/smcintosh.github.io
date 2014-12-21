@@ -6,17 +6,12 @@
       <li><a href="/tags/{{tag}}.html"><span class="taglink">{{tag}}</span></a></li>
     {% endfor %}
   </ul>
- 
-  <!--
-  <div class="panel">
-    <h5>Latest work!</h5>
-    <p>Collecting and Leveraging a Benchmark of Build System Clones to Aid in Quality Assessments</p>
-    <a href="/2014/05/31/collecting-and-leveraging-a-benchmark-of-build-system-clones-to-aid-in-quality-assessments.html">Read More →</a>
-  </div>
-  -->
-  <div class="panel">
-    <a class="twitter-timeline" href="https://twitter.com/shane_mcintosh" data-widget-id="445592879868551169">Tweets by @shane_mcintosh</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
 
+  <h5>Venues</h5>
+  <ul class="side-nav">
+    {% for venue in site.venuelist %}
+      <li><a href="/venues/{{venue}}.html"><span class="taglink">{{venue}}</span></a></li>
+    {% endfor %}
+  </ul>
+ 
 </aside>

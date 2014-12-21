@@ -5,7 +5,8 @@ type: "confpaper"
 title: "An Empirical Study of Delays in the Integration of Addressed Issues"
 authors: "Daniel Alencar da Costa, Surafel Lemma Abebe, <u>Shane McIntosh</u>, Uirá Kulesza, and Ahmed E. Hassan"
 tags: ["integration"]
-venue: Proc. of the 30th International Conference on Software Maintenance and Evolution (ICSME)
+venue: International Conference on Software Maintenance and Evolution
+vtag: ICSME
 pages: "pp. 281-290"
 pubyear: 2014
 acceptance: "40/210 (19%)"

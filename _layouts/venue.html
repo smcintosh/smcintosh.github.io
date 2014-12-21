@@ -1,0 +1,14 @@
+---
+layout: index
+---
+
+<h2>{{ page.title }}</h2>
+<ol class="posts">
+  {% for post in site.posts %}
+    {% if post.vtag contains {{page.vtag}} %}
+    <li>    
+      {% include paper.ext %}
+    </li>
+    {% endif %}
+  {% endfor %}
+</ol>

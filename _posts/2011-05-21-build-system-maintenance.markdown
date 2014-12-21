@@ -5,7 +5,9 @@ type: "shortconfpaper"
 title: "Build System Maintenance"
 authors: "<u>Shane McIntosh</u>"
 tags: ["build-systems"]
-venue: Proc. of the 33rd International Conference on Software Engineering (ICSE), ACM Student Research Competition (SRC) track
+venue: International Conference on Software Engineering
+track: ACM Student Research Competition (SRC)
+vtag: ICSE
 pages: pp. 1167-1169
 pubyear: 2011
 preprint: "http://sail.cs.queensu.ca/publications/pubs/mcintosh_acm_src_icse2011.pdf"

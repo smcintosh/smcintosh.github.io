@@ -5,7 +5,8 @@ type: "confpaper"
 title: "The Evolution of ANT Build Systems"
 authors: "<u>Shane McIntosh</u>, Bram Adams, and Ahmed E. Hassan"
 tags: ["build-systems", "software-evolution"]
-venue: Proc. of the 7th Working Conference on Mining Software Repositories (MSR)
+venue: Working Conference on Mining Software Repositories
+vtag: MSR
 pages: pp. 42-51
 pubyear: 2010
 acceptance: "16/51 (31%)"

@@ -5,7 +5,8 @@ type: "confpaper"
 title: "An Empirical Study of Build Maintenance Effort"
 authors: "<u>Shane McIntosh</u>, Bram Adams, Thanh H. D. Nguyen, Yasutaka Kamei, and Ahmed E. Hassan"
 tags: ["build-systems"]
-venue: Proc. of the 33rd International Conference on Software Engineering (ICSE)
+venue: International Conference on Software Engineering
+vtag: ICSE
 pages: pp. 141-150
 pubyear: 2011
 acceptance: "62/441 (14%)"

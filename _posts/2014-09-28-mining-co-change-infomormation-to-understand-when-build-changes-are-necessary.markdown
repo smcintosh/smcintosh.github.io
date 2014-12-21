@@ -5,7 +5,8 @@ type: "confpaper"
 title: "Mining Co-Change Information to Understand when Build Changes are Necessary"
 authors: "<u>Shane McIntosh</u>, Bram Adams, Meiyappan Nagappan, and Ahmed E. Hassan"
 tags: ["build-systems"]
-venue: Proc. of the 30th International Conference on Software Maintenance and Evolution (ICSME)
+venue: International Conference on Software Maintenance and Evolution
+vtag: ICSME
 pubyear: 2014
 pages: "pp. 241-250"
 acceptance: "40/210 (19%)"

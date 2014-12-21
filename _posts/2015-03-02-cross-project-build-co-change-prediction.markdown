@@ -5,7 +5,8 @@ type: "confpaper"
 title: "Cross-Project Build Co-change Prediction"
 authors: "Xin Xia, David Lo, <u>Shane McIntosh</u>, Emad Shihab, and Ahmed E. Hassan"
 tags: ["build-systems"]
-venue: Proc. of the 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+venue: International Conference on Software Analysis, Evolution, and Reengineering
+vtag: SANER
 pubyear: 2015
 pages: "to appear"
 acceptance: "46/144 (32%)"

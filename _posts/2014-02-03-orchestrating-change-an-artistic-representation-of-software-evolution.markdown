@@ -5,7 +5,8 @@ type: "shortconfpaper"
 title: "Orchestrating Change: An Artistic Representation of Software Evolution"
 authors: "<u>Shane McIntosh</u>, Katie Legere, and Ahmed E. Hassan"
 tags: ["software-evolution", "sonification"]
-venue: Proc. of the 1st joint meeting of the European Conference on Software Maintenance and Reengineering and the Working Conference on Reverse Engineering (CSMR-WCRE)
+venue: Joint meeting of the European Conference on Software Maintenance and Reengineering and the Working Conference on Reverse Engineering
+vtag: SANER
 pages: pp. 353-357
 pubyear: 2014
 acceptance: "12/33 (36%)"

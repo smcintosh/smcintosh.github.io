@@ -5,7 +5,8 @@ type: "confpaper"
 title: "Tracing Software Build Processes to Uncover License Compliance Inconsistencies"
 authors: "Sander van der Burg, Eelco Dolstra, <u>Shane McIntosh</u>, Julius Davies, Daniel M. German, and Armijn Hemel"
 tags: ["build-systems", "software-licensing"]
-venue: Proc. of the 29th International Conference on Automated Software Engineering (ASE)
+venue: International Conference on Automated Software Engineering
+vtag: ASE
 pages: pp. 731-741
 pubyear: 2014
 acceptance: "55/276 (20%)"
