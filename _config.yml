@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 taglist: ["build-systems", "software-evolution", "software-quality", "code-review", "software-licensing", "integration", "code-cloning", "sonification", "web-applications"]
 venuelist: ["ICSE", "ASE", "ICSME", "MSR", "SANER", "EMSE", "WSE"]
-yearlist: [2010, 2011, 2012, 2014, 2015]
+yearlist: [2015, 2014, 2012, 2011, 2010]
