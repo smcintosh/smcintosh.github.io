@@ -8,13 +8,11 @@ layout: index
     <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ page.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
   {% endif %}
   <h6><b>Authors</b> - {{ page.authors }}<br />
-	  <b>Venue</b> - <a href="/venues/{{page.vtag | downcase}}.html"><span class="taglink">{{page.vtag}}</span></a> <a href="/year/{{page.pubyear}}.html"><span class="taglink">{{page.pubyear}}</span></a>: {{ page.venue }}{% if page.track %}, {{ page.track }}{% endif %}, {{ page.pages }}</h6>
-  <h6 class="taglist"><b>Topics</b> -
-  {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
-  {% endfor %}
-  </h6>
- 
+    <b>Venue</b> - {{ page.venue }}{% if page.track %}, {{ page.track }}{% endif %}, {{ page.pages }}, {{ page.pubyear }}</h6>
+  <h6 class="taglist"><b>Related Tags</b> -
+    <a href="/venues/{{page.vtag | downcase}}.html"><span class="taglink">{{page.vtag}}</span></a> <a href="/year/{{page.pubyear}}.html"><span class="taglink">{{page.pubyear}}</span></a> {% for tag in page.tags %} <a href="/tags/{{ tag }}.html"><span class="taglink capitalize">{{ tag | replace:'-',' '}}</span></a> {% endfor %}
+  </h6> 
+
   <p class="textblock"><b>Abstract</b> - {{ page.abstract }}</p>
   {% if page.preprint %}
   <p><b>Preprint</b> - <a href={{ page.preprint }}>PDF</a></p>

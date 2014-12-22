@@ -11,7 +11,7 @@
 	{% endif %}
       {% endfor %}
 
-      <li class="tagitem"><a href="/tags/{{tag}}.html"><span class="taglink">{{tag}}</span></a> x {{pcount}}</li>
+      <li class="tagitem capitalize"><a href="/tags/{{tag}}.html"><span class="taglink">{{tag | replace:'-',' '}}</span></a> x {{pcount}}</li>
     {% endfor %}
   </ul>
 

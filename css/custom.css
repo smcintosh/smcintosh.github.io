@@ -69,3 +69,7 @@ li.tagitem {
 	padding: 0;
 	padding-top: 5px;
 }
+
+.capitalize {
+  text-transform: capitalize;
+}
