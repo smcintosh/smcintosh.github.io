@@ -73,3 +73,7 @@ li.tagitem {
 .capitalize {
   text-transform: capitalize;
 }
+
+.greyhover:hover {
+  background-color: #E2E2E2;
+}

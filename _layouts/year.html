@@ -6,9 +6,7 @@ layout: index
 <ol class="posts">
   {% for post in site.posts %}
     {% if post.pubyear == {{page.year}} %}
-    <li>    
       {% include paper.ext %}
-    </li>
     {% endif %}
   {% endfor %}
 </ol>
