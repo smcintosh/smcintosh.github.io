@@ -8,7 +8,8 @@ tags: ["build-systems"]
 venue: International Conference on Software Analysis, Evolution, and Reengineering
 vtag: SANER
 pubyear: 2015
-pages: "to appear"
+pages: "pp. 311-320"
+preprint: "http://sail.cs.queensu.ca/publications/pubs/saner2015-xia.pdf"
 acceptance: "46/144 (32%)"
 abstract: "Build systems orchestrate how human-readable source code is translated into executable programs. In a software project, source code changes can induce changes in the build system (aka. build co-changes). It is difficult for developers to identify when build co-changes are necessary due to the complexity of build systems. Prediction of build co-changes works well if there is a sufficient amount of training data to build a model. However, in practice, for new projects, there exists a limited number of changes. Using training data from other projects to predict the build co-changes in a new project can help improve the performance of the build co-change prediction. We refer to this problem as cross-project build co-change prediction.
 <br />
@@ -18,6 +19,6 @@ abstract: "Build systems orchestrate how human-readable source code is translate
 	Author={Xin Xia and David Lo and Shane McIntosh and Emad Shihab and Ahmed E. Hassan},
 	Title = {Cross-Project Build Co-change Prediction},
 	Booktitle = {Proc. of the 22nd Int'l Conf. on Software Analysis, Evolution, and Reengineering (SANER)},
-	Pages = {To appear},
+	Pages = {311-320},
 	Year = {2015}
 }
