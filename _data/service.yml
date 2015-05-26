@@ -1,9 +1,14 @@
+- title: Program Committee Chair
+  host:
+    - International Workshop on Empirical Software Engineering in Practice (IWESEP 2016)
+
 - title: Program Committee
   host:
     - International Workshop on Empirical Software Engineering in Practice (IWESEP 2014)
 
 - title: Formal Tool Demonstrations Program Committee
   host:
+    - International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016)
     - International Conference on Program Comprehension (ICPC 2015)
     - International Conference on Software Maintenance and Evolution (ICSME 2014)
     - International Conference on Program Comprehension (ICPC 2014)
