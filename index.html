@@ -45,6 +45,15 @@ title: Shane McIntosh - PhD Candidate
     {% endfor %}
   </ol>
 
+  <h3>International Workshop Papers</h3>
+  <ol class="posts">
+    {% for post in site.posts %}
+      {% if post.type == "workshoppaper" %}
+        {% include paper.ext %}
+      {% endif %}
+    {% endfor %}
+  </ol>
+
   <h3>Theses</h3>
   <ol class="posts">
     {% for post in site.posts %}
