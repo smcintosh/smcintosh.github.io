@@ -1,6 +1,6 @@
 name: Shane McIntosh - Ph.D. Student
 markdown: redcarpet
 pygments: true
-taglist: ["build-systems", "software-quality", "software-evolution", "code-review", "software-licensing", "integration", "code-cloning", "sonification", "web-applications"]
-venuelist: ["ICSE", "FSE", "ASE", "ICSME", "MSR", "SANER", "EMSE", "WSE"]
+taglist: ["build-systems", "software-quality", "software-evolution", "code-review", "build-performance", "software-licensing", "integration", "code-cloning", "sonification", "web-applications"]
+venuelist: ["ICSE", "FSE", "ASE", "ICSME", "MSR", "SANER", "EMSE", "AUSE", "WSE"]
 yearlist: [2015, 2014, 2012, 2011, 2010]
