@@ -6,6 +6,7 @@ title: "Identifying and Understanding Header File Hotspots in C/C++ Build Proces
 authors: "<u>Shane McIntosh</u>, Bram Adams, Meiyappan Nagappan, and Ahmed E. Hassan"
 tags: ["build-systems", "build-performance"]
 venue: Automated Software Engineering
+preprint: http://sail.cs.queensu.ca/publications/pubs/ause2015-mcintosh.pdf
 vtag: AUSE
 pages: Accepted
 pubyear: 2015
