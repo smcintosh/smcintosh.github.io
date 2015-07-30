@@ -77,3 +77,14 @@ li.tagitem {
 .greyhover:hover {
   background-color: #E2E2E2;
 }
+
+img.mepic {
+  width: 320px;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  margin-left: -160px;
+  margin-right: -160px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
