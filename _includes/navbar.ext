@@ -2,8 +2,8 @@
   <div class="large-12 columns">
     <div class="nav-bar right">
      <ul class="button-group">
-       <li><a href="/#about" class="button">About</a></li>
-       <li><a href="/#publications" class="button">Publications</a></li>
+       <li><a href="/#research" class="button">Research</a></li>
+       <li><a href="/#teaching" class="button">Teaching</a></li>
        <li><a href="/#recognition" class="button">Recognition</a></li>
        <li><a href="/#service" class="button">Service</a></li>
       </ul>
