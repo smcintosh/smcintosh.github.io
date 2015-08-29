@@ -82,6 +82,21 @@ title: Shane McIntosh - Assistant Professor
 
 <div class="row">
   <div class="large-12 columns">
+  <h2 id="service">Service</h2>
+  <ol class="posts">
+    {% for s in site.data.service %}
+    <li>    
+      {% include service.ext %}
+    </li>
+    {% endfor %}
+  </ol>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="large-12 columns">
   <h2 id="recognition">Recognition</h2>
   <h3>Scholarships</h3>
   <ol class="posts">
@@ -97,21 +112,6 @@ title: Shane McIntosh - Assistant Professor
     {% for rec in site.data.recognition %}
     <li>    
       {% include recognition.ext %}
-    </li>
-    {% endfor %}
-  </ol>
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-  <div class="large-12 columns">
-  <h2 id="service">Service</h2>
-  <ol class="posts">
-    {% for s in site.data.service %}
-    <li>    
-      {% include service.ext %}
     </li>
     {% endfor %}
   </ol>
