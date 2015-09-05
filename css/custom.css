@@ -79,11 +79,6 @@ li.tagitem {
 }
 
 img.mepic {
-  width: 320px;
-  left: 50%;
-  right: 50%;
-  margin-left: -160px;
-  margin-right: -160px;
-  margin-top: 70px;
-  margin-bottom: 70px;
+  width: 200px;
+  border: 2px solid #021a40;
 }
