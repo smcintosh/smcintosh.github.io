@@ -15,9 +15,32 @@
  
     <!-- Main Page Content -->
 
+    {% if page.index %}
     <div class="row">
+      <div class="large-3 columns" role="content">
+        <img src="/assets/shane_new.jpg" class="mepic" align="right" />
+      </div>
       <div class="large-9 columns" role="content">
+        Shane McIntosh <br />
+        Assistant Professor <br />
+        <a href="http://www.mcgill.ca/ece/">Dept. of Electrical and Computer Engineering</a> <br />
+        <a href="http://www.mcgill.ca/">McGill University</a><br />
+        McConnell Engineering Building<br />
+        3480 University St.<br />
+        Room 527<br />
+        Montreal, QC, Canada<br />
+        H3A 0E9<br />
+        <br />
+        <tt><font size=3>[first_name].[family_name]@mcgill.ca</font></tt>
+      </div>
+    </div>
+    {% endif %}
 
+    <div class="row">
+      {% if page.index %}
+        <hr />
+      {% endif %}
+      <div class="large-9 columns" role="content">
         {{ content }} 
 
       </div>
