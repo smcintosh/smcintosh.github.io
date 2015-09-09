@@ -5,6 +5,7 @@ type: "thesis"
 title: "Studying the Evolution of Build Systems"
 authors: "<u>Shane McIntosh</u>"
 tags: ["build-systems", "software-evolution"]
+vtag: "Theses"
 venue: Queen's University
 pages: "Master's Thesis"
 pubyear: 2011
