@@ -2,7 +2,7 @@
 layout: post
 date:  2015-09-15 00:00:00
 type: "journalpaper"
-title: "Studying Just-In-Time defect prediction using cross-project models"
+title: "Studying just-in-time defect prediction using cross-project models"
 authors: "Yasutaka Kamei, Takafumi Fukushima, <u>Shane McIntosh</u>, Kazuhiro Yamashita, Naoyasu Ubayashi, and Ahmed E. Hassan"
 tags: ["software-quality"]
 venue: Empirical Software Engineering
@@ -14,7 +14,7 @@ abstract: "Unlike traditional defect prediction models that identify defect-pron
 ---
 @article{kamei2015emse,
 	Author={Yasutaka Kamei and Takafumi Fukushima and Shane McIntosh and Kazuhiro Yamashita and Naoyasu Ubayashi and Ahmed E. Hassan},
-	Title = {Studying Just-In-Time defect prediction using cross-project models},
+	Title = {Studying just-in-time defect prediction using cross-project models},
 	Journal = {Empirical Software Engineering},
 	Pages = {To appear},
 	Year = {2015}
