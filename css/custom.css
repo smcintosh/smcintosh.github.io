@@ -38,6 +38,19 @@ span.taglink:hover {
   border-right: 1px solid #C4DAE9;
   text-decoration: none;
 }
+div.jobad {
+    background-color: #F2F2F2;
+    border-top: 1px solid #ACACAC;
+    border-left: 1px solid #ACACAC;
+    border-bottom: 1px solid #ACACAC;
+    border-right: 1px solid #ACACAC;
+    padding: 3px 4px;
+    margin: 0px 0px 0px 0px;
+    text-decoration: none;
+    line-height: 1.4;
+    /*white-space: nowrap;*/
+    display: inline-block;
+}
 pre {
 	white-space: pre;
 	overflow: auto;
