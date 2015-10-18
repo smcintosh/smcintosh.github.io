@@ -7,16 +7,18 @@ authors: "<u>Shane McIntosh</u>, Meiyappan Nagappan, Bram Adams, Audris Mockus, 
 tags: ["build-systems", "software-evolution"]
 venue: Empirical Software Engineering
 vtag: EMSE
-pages: Accepted
-pubyear: 2014
+pages: Vol. 20(6):1587-1633
+pubyear: 2015
 preprint: "http://sail.cs.queensu.ca/publications/pubs/emse2014-mcintosh-preprint.pdf"
 slides: "<iframe src='//www.slideshare.net/slideshow/embed_code/17137254' width='427' height='356' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen> </iframe>"
 abstract: "Build systems specify how source code is translated into deliverables. They require continual maintenance as the system they build evolves. This build maintenance can become so burdensome that projects switch build technologies, potentially having to rewrite thousands of lines of build code. We aim to understand the prevalence of different build technologies and the relationship between build technology and build maintenance by analyzing version histories in a corpus of 177,039 repositories spread across four software forges, three software ecosystems, and four large-scale projects. We study low-level, abstraction-based, and framework-driven build technologies, as well as tools that automatically manage external dependencies. We find that modern, framework-driven build technologies need to be maintained more often and these build changes are more tightly coupled with the source code than low-level or abstraction-based ones. However, build technology migrations tend to coincide with a shift of build maintenance work to a build-focused team, deferring the cost of build maintenance to them."
 ---
-@article{mcintosh2014emse,
+@article{mcintosh2015emse,
 	Author={Shane McIntosh and Meiyappan Nagappan and Bram Adams and Audris Mockus and Ahmed E. Hassan},
 	Title = {A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance},
 	Journal = {Empirical Software Engineering},
-	Pages = {To appear},
-	Year = {2014}
+  Volume = {20},
+	Number = {6},
+	Pages = {1587-1633},
+	Year = {2015}
 }
