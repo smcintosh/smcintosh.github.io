@@ -9,7 +9,7 @@ venue: International Conference on Software Analysis, Evolution, and Reengineeri
 vtag: SANER
 pubyear: 2015
 pages: "pp. 311-320"
-preprint: "http://sail.cs.queensu.ca/publications/pubs/saner2015-xia.pdf"
+preprint: "http://sail.cs.queensu.ca/Downloads/SANER2015_Cross-ProjectBuildCo-changePrediction.pdf"
 acceptance: "46/144 (32%)"
 slides: "<iframe src='//www.slideshare.net/slideshow/embed_code/45524826' width='425' height='355' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen> </iframe> <div style='margin-bottom:5px'> </div>"
 abstract: "Build systems orchestrate how human-readable source code is translated into executable programs. In a software project, source code changes can induce changes in the build system (aka. build co-changes). It is difficult for developers to identify when build co-changes are necessary due to the complexity of build systems. Prediction of build co-changes works well if there is a sufficient amount of training data to build a model. However, in practice, for new projects, there exists a limited number of changes. Using training data from other projects to predict the build co-changes in a new project can help improve the performance of the build co-change prediction. We refer to this problem as cross-project build co-change prediction.

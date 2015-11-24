@@ -10,7 +10,7 @@ venue: Queen's University
 pages: "Master's Thesis"
 pubyear: 2011
 award: "Distinguished thesis award"
-preprint: "http://sail.cs.queensu.ca/publications/pubs/masterthesis2011_mcintosh.pdf"
+preprint: "http://sail.cs.queensu.ca/Downloads/2011_StudyingTheEvolutionOfBuildSystems.pdf"
 abstract: "As a software project ages, its source code is improved by refining existing features, adding new ones, and fixing bugs. Software developers can attest that such changes often require accompanying changes to the infrastructure that converts source code into executable software packages, i.e., the build system. Intuition suggests that these build system changes slow down development progress by diverting developer focus away from making improvements to the source code.
 <p>
 While source code evolution and maintenance is studied extensively, there is little work that focuses on the build system. In this thesis, we empirically study the static and dynamic evolution of build system complexity in proprietary and open source projects. To help counter potential bias of the study, 13 projects with different sizes, domains, build technologies, and release strategies were selected for examination, including Eclipse, Linux, Mozilla, and JBoss.
