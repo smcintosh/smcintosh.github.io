@@ -19,7 +19,7 @@ abstract: "Build systems specify how sources are transformed into deliverables, 
 	Author={Shane McIntosh and Martin Poehlmann and Elmar Juergens and Audris Mockus and Bram Adams and Ahmed E. Hassan and Brigitte Haupt and Christian Wagner},
 	Title = {Collecting and Leveraging a Benchmark of Build System Clones to Aid in Quality Assessments},
 	Booktitle = {Proc. of the 36th Int'l Conf. on Software Engineering (ICSE)},
-	Volume = {2}
+	Volume = {2},
 	Pages = {145-154},
 	Year = {2011}
 }
