@@ -7,9 +7,10 @@ authors: "Christian Macho, <u>Shane McIntosh</u>, and Martin Pinzger"
 tags: ["build-systems"]
 venue: International Conference on Software Analysis, Evolution, and Reengineering
 vtag: SANER
-pubyear: 2016
 pages: To appear
+pubyear: 2016
 acceptance: "52/140 (37%)"
+award: "Nominated for best paper award"
 abstract: "When software is maintained and evolved the build configuration also needs to be updated. Knowing when to update the build configuration is typically done manually with the risk of missing an update and breaking the build. To mitigate this risk, previous work has investigated prediction models to help developers to identify commits that will likely involve an update of the build configuration.
 <p>
 In this paper, we investigate whether we can improve these existing prediction models by taking into account detailed information on source code changes and commit categories. Our main hypothesis is that such detailed information on changes will significantly improve the prediction of build co-changes.
