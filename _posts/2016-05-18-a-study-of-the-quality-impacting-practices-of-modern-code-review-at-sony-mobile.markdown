@@ -3,7 +3,7 @@ layout: post
 date:  2016-05-18 00:00:00
 type: "confpaper"
 title: "A Study of the Quality-Impacting Practices of Modern Code Review at Sony Mobile"
-authors: "Junji Shimagaki, Yasutaka Kamei, <u>Shane McIntosh</u>, Ahmed E. Hassan, Naoyasu Ubayashi"
+authors: "Junji Shimagaki, Yasutaka Kamei, <u>Shane McIntosh</u>, Ahmed E. Hassan, and Naoyasu Ubayashi"
 tags: ["code-review", "software-quality"]
 venue: International Conference on Software Engineering
 vtag: ICSE

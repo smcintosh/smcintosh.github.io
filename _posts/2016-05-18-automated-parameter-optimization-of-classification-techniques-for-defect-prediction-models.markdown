@@ -3,7 +3,7 @@ layout: post
 date:  2016-05-18 00:00:00
 type: "confpaper"
 title: "Automated Parameter Optimization of Classification techniques for Defect Prediction Models"
-authors: "Chakkrit Tantithamthavorn, <u>Shane McIntosh</u>, Ahmed E. Hassan, Kenichi Matsumoto"
+authors: "Chakkrit Tantithamthavorn, <u>Shane McIntosh</u>, Ahmed E. Hassan, and Kenichi Matsumoto"
 tags: ["software-quality"]
 venue: International Conference on Software Engineering
 vtag: ICSE
