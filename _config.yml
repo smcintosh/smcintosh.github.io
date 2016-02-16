@@ -1,5 +1,4 @@
 name: Shane McIntosh - Asst. Professor
-markdown: redcarpet
 pygments: true
 taglist: ["build-systems", "software-quality", "software-evolution", "code-review", "build-performance", "software-licensing", "integration", "code-cloning", "sonification", "web-applications", "static-analysis"]
 venuelist: ["ICSE", "FSE", "ASE", "ICSME", "MSR", "SANER", "EMSE", "AUSE", "IWPSE", "WSE", "Theses"]
