@@ -4,10 +4,16 @@ date:  2015-09-08 00:00:00
 type: "thesis"
 vtag: "Theses"
 title: "Studying the Software Development Overhead of Build Systems"
-authors: "<u>Shane McIntosh</u>"
-tags: ["build-systems", "build-performance"]
+phd: yes
+authors:
+- Shane McIntosh
+tags:
+- build-systems
+- build-performance
+address: 557 Goodwin Hall, Kingston, ON, Canada
+month: September
 venue: "Queen's University"
-pages: "PhD Thesis"
+pages: 1-236
 pubyear: 2015
 preprint: "http://hdl.handle.net/1974/13570"
 abstract: "Software is developed at a rapid pace. Software development techniques like continuous delivery have shortened the time between official releases of a software system from months or years to a matter of minutes. At the heart of this rapid release cycle of continuously delivered software is the <i>build system</i>, i.e., the system that specifies how source code is translated into deliverables. An efficient build system that quickly produces updated versions of a software system is required to keep up with market competitors. However, the benefits of an efficient build system come at a cost &#8212; build systems introduce overhead on the software development process.
@@ -22,11 +28,3 @@ We then present an empirical study that focuses on the <i>execution overhead</i>
 </p>
 "
 ---
-@phdthesis{mcintosh2015phd,
-	Author={Shane McIntosh},
-	Title = {Studying the Software Development Overhead of Build Systems},
-	School = {Queen's University},
-	Address = {557 Goodwin Hall, Kingston, ON, Canada},
-	Month = {September},
-	Year = {2015}
-}

@@ -3,8 +3,8 @@
 {% if post.award %}
 <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ post.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
 {% endif %}
-<b>Authors</b> - {{ post.authors }} <br />
-<b>Venue</b> - {{ post.venue }}{% if post.track %}, {{ post.track }}{% endif %}, {{ post.pages }}, {{ post.pubyear }}</h6>
+<b>Authors</b> - {{ post.authors | join:", " }} <br />
+<b>Venue</b> - {{ post.venue }}{% if post.track %}, {{ post.track }}{% endif %}{% if post.volume %}, Vol. {{ post.volume }}{% endif %}{% if post.number %}, No. {{ post.number }}{% endif %}, pp. {{ post.pages }}, {{ post.pubyear }}</h6>
 <br />
 {% if post.acceptance %}
 <b>Acceptance rate</b> - {{ post.acceptance }} <br />

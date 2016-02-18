@@ -3,11 +3,16 @@ layout: post
 date:  2011-01-31 00:00:00
 type: "thesis"
 title: "Studying the Evolution of Build Systems"
-authors: "<u>Shane McIntosh</u>"
-tags: ["build-systems", "software-evolution"]
+authors:
+- Shane McIntosh
+tags:
+- build-systems
+- software-evolution
 vtag: "Theses"
 venue: Queen's University
-pages: "Master's Thesis"
+address: 557 Goodwin Hall, Kingston, ON, Canada
+month: January
+pages: 1-112
 pubyear: 2011
 award: "Distinguished thesis award"
 preprint: "http://sail.cs.queensu.ca/Downloads/2011_StudyingTheEvolutionOfBuildSystems.pdf"
@@ -20,11 +25,3 @@ We find that: (1) similar to Lehman's first law of software evolution, Java buil
 </p>
 "
 ---
-@mastersthesis{mcintosh2011msc,
-	Author={Shane McIntosh},
-	Title = {Studying the Evolution of Build Systems},
-	School = {Queen's University},
-	Address = {557 Goodwin Hall, Kingston, ON, Canada},
-	Month = {January},
-	Year = {2011}
-}
