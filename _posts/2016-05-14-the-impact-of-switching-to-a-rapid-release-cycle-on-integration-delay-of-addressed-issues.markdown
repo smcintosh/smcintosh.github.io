@@ -2,7 +2,7 @@
 layout: post
 date:  2016-05-14 00:00:00
 type: "confpaper"
-title: "Studying the Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues"
+title: "The Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues"
 authors:
 - Daniel Alencar da Costa
 - Shane McIntosh
