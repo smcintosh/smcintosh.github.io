@@ -2,7 +2,7 @@
 layout: post
 date:  2016-05-14 00:00:00
 type: "confpaper"
-title: "The Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues"
+title: "The Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues: An Empirical Study of the Mozilla Firefox Project"
 authors:
 - Daniel Alencar da Costa
 - Shane McIntosh
