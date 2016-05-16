@@ -10,6 +10,7 @@ authors:
 - Ahmed E. Hassan
 tags:
 - integration
+award: "ACM SIGSOFT distinguished paper award"
 venue: International Conference on Mining Software Repositories
 vtag: MSR
 pages: To appear
