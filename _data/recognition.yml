@@ -1,9 +1,22 @@
+- name: Governor General's Academic Gold Medal
+  host:
+  - Queen's University
+
+- name: Distinguished Master's Thesis
+  host:
+    - School of Computing @ Queen's University
+
+- name: ACM SIGSOFT Distinguished Paper Award
+  host:
+    - International Conference on Mining Software Repositories (MSR 2016)
+
 - name: Distinguished Paper Award
   host:
     - Working Conference on Mining Software Repositories (MSR 2014)
 
 - name: Nominated for Distinguished/Best Paper Award
   host:
+    - International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016)
     - International Conference on Software Maintenance and Evolution (ICSME 2014)
     - Working Conference on Mining Software Repositories (2 nominations) (MSR 2014)
     - Working Conference on Mining Software Repositories (MSR 2010)
@@ -13,10 +26,6 @@
     - International Symposium on Augmenting Software Developer Support to Improve Productivity (ASDS 2013)
   value: 250 CHF
 
-- name: Distinguished MSc Thesis
-  host:
-    - Queen's University School of Computing
-
 - name: ACM Student Research Competition Finalist
   host:
     - International Conference on Software Engineering (ICSE 2011)
@@ -24,5 +33,5 @@
 
 - name: ACM CAPS Merit Award
   host:
-    - International Conference on Software Engineering (ICSE 2011)
     - International Conference on Automated Software Engineering (ASE 2014)
+    - International Conference on Software Engineering (ICSE 2011)
