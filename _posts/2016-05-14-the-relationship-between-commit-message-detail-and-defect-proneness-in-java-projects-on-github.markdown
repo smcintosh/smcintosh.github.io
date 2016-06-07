@@ -14,7 +14,7 @@ venue: Working Conference on Mining Software Repositories
 vtag: MSR
 award: "Mining challenge runner-up"
 track: Mining challenge
-pages: To appear
+pages: 496-499
 preprint: /assets/msr2016_barnett.pdf
 pubyear: 2016
 acceptance: "10/24 (42%)"

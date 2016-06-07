@@ -13,7 +13,7 @@ tags:
 venue: Working Conference on Mining Software Repositories
 vtag: MSR
 track: Mining challenge
-pages: To appear
+pages: 492-495
 pubyear: 2016
 preprint: /assets/msr2016_desarmeaux.pdf
 acceptance: "10/24 (42%)"

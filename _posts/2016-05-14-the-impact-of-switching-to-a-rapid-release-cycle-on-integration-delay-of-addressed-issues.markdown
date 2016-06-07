@@ -13,7 +13,7 @@ tags:
 award: "ACM SIGSOFT distinguished paper award"
 venue: International Conference on Mining Software Repositories
 vtag: MSR
-pages: To appear
+pages: 374-385
 pubyear: 2016
 preprint: http://sail.cs.queensu.ca/Downloads/2016_StudyingTheImpactOfSwitchingToARapidReleaseCycleOnIntegrationDelayOfAddressedIssues-AnEmpiricalStudyOfTheMozillaFirefoxProject.pdf
 acceptance: "36/103 (35%)"

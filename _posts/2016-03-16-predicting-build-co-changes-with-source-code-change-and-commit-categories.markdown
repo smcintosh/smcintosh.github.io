@@ -12,7 +12,7 @@ tags:
 venue: International Conference on Software Analysis, Evolution, and Reengineering
 vtag: SANER
 preprint: http://serg.aau.at/pub/MartinPinzger/Publications/Macho2016-buildcochanges.pdf
-pages: To appear
+pages: 541-551
 pubyear: 2016
 acceptance: "52/140 (37%)"
 award: "Nominated for best paper award"
