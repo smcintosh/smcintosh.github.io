@@ -9,6 +9,7 @@ authors:
 - Ahmed E. Hassan
 tags:
 - software-quality
+- defect-prediction
 venue: International Conference on Software Engineering
 vtag: ICSE
 pubyear: 2015

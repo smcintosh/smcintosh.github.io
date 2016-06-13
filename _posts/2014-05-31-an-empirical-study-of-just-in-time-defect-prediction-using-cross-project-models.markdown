@@ -11,6 +11,7 @@ authors:
 - Naoyasu Ubayashi
 tags:
 - software-quality
+- defect-prediction
 venue: Working Conference on Mining Software Repositories
 vtag: MSR
 pages: 172-181

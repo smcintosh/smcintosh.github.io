@@ -10,6 +10,7 @@ authors:
 - Kenichi Matsumoto
 tags:
 - software-quality
+- defect-prediction
 venue: IEEE Transactions on Software Engineering
 vtag: TSE
 pages: To appear

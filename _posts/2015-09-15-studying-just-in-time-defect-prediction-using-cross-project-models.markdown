@@ -12,6 +12,7 @@ authors:
 - Ahmed E. Hassan
 tags:
 - software-quality
+- defect-prediction
 venue: Empirical Software Engineering
 vtag: EMSE
 preprint: "http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Kamei_EMSE2015.pdf"

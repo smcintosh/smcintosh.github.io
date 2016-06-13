@@ -10,6 +10,7 @@ authors:
 - Shane McIntosh
 tags:
 - software-quality
+- defect-prediction
 venue: Working Conference on Mining Software Repositories
 vtag: MSR
 award: "Mining challenge runner-up"

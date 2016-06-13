@@ -9,7 +9,9 @@ authors:
 - Ahmed E. Hassan
 - Akinori Ihara
 - Kenichi Matsumoto
-tags: ["software-quality"]
+tags:
+- software-quality
+- defect-prediction
 venue: International Conference on Software Engineering
 vtag: ICSE
 pubyear: 2015

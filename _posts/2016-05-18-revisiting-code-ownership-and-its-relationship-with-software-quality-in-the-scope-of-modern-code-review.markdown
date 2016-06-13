@@ -2,7 +2,7 @@
 layout: post
 date:  2016-05-18 00:00:00
 type: "confpaper"
-title: "Revisiting Code Ownership and Its Relationship with Software Quality in the Scope of Modern Code Review"
+title: "Revisiting Code Ownership and its Relationship with Software Quality in the Scope of Modern Code Review"
 authors:
 - Patanamon Thongtanunam
 - Shane McIntosh

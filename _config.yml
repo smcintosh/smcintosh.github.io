@@ -1,6 +1,6 @@
 name: Shane McIntosh - Asst. Professor
 highlighter: rouge
 future: true
-taglist: ["build-systems", "software-quality", "software-evolution", "code-review", "build-performance", "integration", "software-licensing", "code-cloning", "sonification", "web-applications", "static-analysis"]
+taglist: ["build-systems", "software-quality", "software-evolution", "defect-prediction", "code-review", "build-performance", "integration", "software-licensing", "code-cloning", "sonification", "web-applications", "static-analysis"]
 venuelist: ["ICSE", "TSE", "FSE", "EMSE", "ASE", "ICSME", "MSR", "SANER", "ESEM", "AUSE", "IWPSE", "WSE", "Theses"]
 yearlist: [2016, 2015, 2014, 2012, 2011, 2010]
