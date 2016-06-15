@@ -15,6 +15,7 @@ venue: International Symposium on Empirical Software Engineering and Measurement
 vtag: ESEM
 pubyear: 2016
 pages: To appear
+preprint: http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Miura_ESEM2016.pdf
 acceptance: "??/?? (??%)"
 abstract: "<u>Background</u>: Substantial research in the software evolution field aims to recover knowledge about development from the project history that is archived in repositories, such as a Version Control System (VCS). However, the data that is archived in these repositories can be analyzed at different levels of granularity. Although software evolution is a well-studied phenomenon at the revision-level, revisions may be too fine-grained to accurately represent development tasks.
 
