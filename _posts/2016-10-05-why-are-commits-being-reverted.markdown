@@ -13,6 +13,7 @@ tags:
 - software-evolution
 venue: International Conference on Software Maintenance and Evolution
 vtag: ICSME
+preprint: http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Shimagaki_ICSME2016.pdf
 pubyear: 2016
 pages: To appear
 acceptance: "37/127 (29%)"
