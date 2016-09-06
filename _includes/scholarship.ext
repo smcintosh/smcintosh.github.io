@@ -1,7 +1,0 @@
-<a href={{ sc.url }}><span class="paper_title">{{ sc.name }}</span></a><br />
-<b>Value</b> - {{ sc.value }} for {{ sc.duration }}
-{% if sc.special %}
-  ({{sc.special}})
-{% endif %}
-<br />
-<p><b>Details</b> - {{ sc.abstract }}</p>

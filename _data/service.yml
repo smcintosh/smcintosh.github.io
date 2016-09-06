@@ -33,15 +33,9 @@
 
 - title: Reviewer
   host:
-    - International Conference on Software Maintenance and Evolution (ICSME 2014)
-    - Working Conference on Mining Software Repositories (MSR 2014)
-    - International Conference on Software Engineering (ICSE 2014)
-    - Working Conference on Mining Software Repositories (MSR 2013)
     - Transactions on Software Engineering (TSE)
     - Empirical Software Engineering (EMSE)
-    - IEEE Software
+    - Automated Software Engineering (AUSE)
+    - Information and Software Technology (IST)
     - Journal of Software and Systems (JSS)
-
-- title: Student Volunteer
-  host:
-    - International Conference on Software Engineering (ICSE 2014)
+    - IEEE Software

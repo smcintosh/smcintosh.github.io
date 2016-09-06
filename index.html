@@ -7,69 +7,18 @@ index: true
 <div class="row" >
   <div class="large-12 columns">
   <h2 id="research">Research</h2>
-  <p class="textblock">Broadly speaking, I perform empirical studies that mine the historical data that is generated during the development of large-scale software systems. Specifically, my research focuses on <i>release engineering</i> (i.e., the process of assembling, verifying, and delivering releases of software systems from its sources) and <i>software quality</i> (i.e., deriving practical guidelines for developing more reliable software systems).</p>
-
-  <div class="jobad">
-    I am actively recruiting bright and motivated master's and PhD students! If you are interested in working with me, please send me an email after <a href="http://www.mcgill.ca/ece/admissions/graduate/apply">applying</a> to the graduate program at McGill.
-  </div>
+  <p class="textblock">At McGill University, I lead the <a href="http://rebels.ece.mcgill.ca/">Software Repository Excavation and Build Engineering Labs (the Software REBELs)</a>. Broadly speaking, my students and I perform empirical studies that mine the historical data that is generated during the development of large-scale software systems. Specifically, my research focuses on <i>release engineering</i> (i.e., the process of assembling, verifying, and delivering releases of software systems from its sources) and <i>software quality</i> (i.e., deriving practical guidelines for developing more reliable software systems).</p>
   <p> </p>
 
-  <h3>International Journal Papers</h3>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.type == "journalpaper" %}
-        {% include paper.ext %}
-      {% endif %}
-    {% endfor %}
-  </ol>
-
-  <h3>International Conference Papers (Full)</h3>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.type == "confpaper" %}
-        {% include paper.ext %}
-      {% endif %}
-    {% endfor %}
-  </ol>
-
-  <h3>International Conference Papers (Short)</h3>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.type == "shortconfpaper" %}
-        {% include paper.ext %}
-      {% endif %}
-    {% endfor %}
-  </ol>
-
-  <h3>International Workshop Papers</h3>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.type == "workshoppaper" %}
-        {% include paper.ext %}
-      {% endif %}
-    {% endfor %}
-  </ol>
-
-  <h3>Theses</h3>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.type == "thesis" %}
-        {% include paper.ext %}
-      {% endif %}
-    {% endfor %}
-  </ol>
-  </div>
-</div>
-
-<hr />
+  <hr />
 
 <div class="row">
   <div class="large-12 columns">
   <h2 id="teaching">Teaching</h2>
-  <ul class="posts">
-    <li>
-    ECSE 321: Introduction to Software Engineering (Fall 2015)
-    </li>
+  <ul class="servlist">
+    <li class="servitem">ECSE 689: Software Analytics (Winter 2017)</li>
+    <li class="servitem">ECSE 321: Introduction to Software Engineering (Fall 2016)</li>
+    <li class="servitem">ECSE 321: Introduction to Software Engineering (Fall 2015)</li>
   </ul>
   </div>
 </div>
@@ -94,14 +43,6 @@ index: true
 <div class="row">
   <div class="large-12 columns">
   <h2 id="recognition">Recognition</h2>
-  <h3>Scholarships</h3>
-  <ol class="posts">
-    {% for sc in site.data.scholarships %}
-    <li>    
-      {% include scholarship.ext %}
-    </li>
-    {% endfor %}
-  </ol>
 
   <h3>Awards</h3>
   <ol class="posts">
