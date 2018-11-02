@@ -13,6 +13,23 @@
     - type: Program Committee Co-chair
       host: International Workshop on Empirical Software Engineering in Practice (IWESEP 2016)
 
+- title: Service for International Journals
+  roles:
+    - type: Associate Editor
+      host: Journal of Systems and Software (2017–Present)
+    - type: Reviewer
+      host: Transactions on Software Engineering (TSE)
+    - type: Reviewer
+      host: Empirical Software Engineering (EMSE)
+    - type: Reviewer
+      host: Automated Software Engineering (AUSE)
+    - type: Reviewer
+      host: Information and Software Technology (IST)
+    - type: Reviewer
+      host: Journal of Software and Systems (JSS)
+    - type: Reviewer
+      host: IEEE Software
+
 - title: Program Committees
   roles:
     - type: Research Track
@@ -52,20 +69,3 @@
       host: Working Conference on Mining Software Repositories (MSR 2015)
     - type: Data Showcase Committee
       host: Working Conference on Mining Software Repositories (MSR 2013, 2015–2016)
-
-- title: Service for International Journals
-  roles:
-    - type: Associate Editor
-      host: Journal of Systems and Software (2017–Present)
-    - type: Reviewer
-      host: Transactions on Software Engineering (TSE)
-    - type: Reviewer
-      host: Empirical Software Engineering (EMSE)
-    - type: Reviewer
-      host: Automated Software Engineering (AUSE)
-    - type: Reviewer
-      host: Information and Software Technology (IST)
-    - type: Reviewer
-      host: Journal of Software and Systems (JSS)
-    - type: Reviewer
-      host: IEEE Software

@@ -20,14 +20,7 @@ index: true
 <div class="row">
   <div class="large-12 columns">
   <h2 id="teaching">Teaching</h2>
-  <ul class="servlist">
-    <li class="servitem">ECSE 611: Software Analytics (Winter 2018)</li>
-    <li class="servitem">ECSE 429: Software Validation (Fall 2017)</li>
-    <li class="servitem">ECSE 321: Introduction to Software Engineering (Fall 2017)</li>
-    <li class="servitem">ECSE 611: Software Analytics (Winter 2017)</li>
-    <li class="servitem">ECSE 321: Introduction to Software Engineering (Fall 2016)</li>
-    <li class="servitem">ECSE 321: Introduction to Software Engineering (Fall 2015)</li>
-  </ul>
+    {% include teaching.ext %}
   </div>
 </div>
 
@@ -36,7 +29,7 @@ index: true
 <div class="row">
   <div class="large-12 columns">
   <h2 id="service">Service</h2>
-  <ol class="posts">
+  <ul class="posts">
     {% for s in site.data.service %}
     <li>    
       {% include service.ext %}

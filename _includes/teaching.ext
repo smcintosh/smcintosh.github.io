@@ -1,0 +1,5 @@
+<ul class="servlist">
+{% for t in site.data.teaching %}
+  <li class="servitem">{{ t.code }}: {{ t.class }} ({{ t.years }})</li>
+{% endfor %}
+</ul>
