@@ -1,49 +1,71 @@
-- title: Program Committee Co-chair
-  host:
-    - International Workshop on Release Engineering (RELENG 2016)
-    - International Workshop on Empirical Software Engineering in Practice (IWESEP 2016)
+- title: Organizational Committees
+  roles:
+    - type: Formal Demonstrations Track Co-chair
+      host: International Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)
+    - type: Student Volunteer Co-chair
+      host: International Conference on Software Engineering (ICSE 2019)
+    - type: Tutorials Co-chair
+      host: Asia-Pacific Software Engineering Conference (APSEC 2018)
+    - type: Program Committee Co-chair
+      host: International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2018)
+    - type: Program Committee Co-chair
+      host: International Workshop on Release Engineering (RELENG 2016)
+    - type: Program Committee Co-chair
+      host: International Workshop on Empirical Software Engineering in Practice (IWESEP 2016)
 
-- title: Program Committee
-  host:
-    - International Symposium on Empirical Software Engineering and Measurement (ESEM 2017)
-    - International Conference on Software Maintenance and Evolution (ICSME 2017)
-    - International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2017)
-    - International Conference on Mining Software Repositories (MSR 2017)
-    - International Conference on Evaluation and Assessment in Software Engineering (EASE 2017)
-    - International Workshop on Empirical Software Engineering in Practice (IWESEP 2017)
-    - International Workshop on Software Analytics (SWAN 2016)
-    - International Conference on Software Maintenance and Evolution (ICSME 2016)
-    - Working Conference on Mining Software Repositories (MSR 2016)
-    - International Workshop on Empirical Software Engineering in Practice (IWESEP 2014)
+- title: Program Committees
+  roles:
+    - type: Research Track
+      host: International Conference on Software Maintenance and Evolution (ICSME 2016–2018)
+    - type: Research Track
+      host: International Conference on Automated Software Engineering (ASE 2018–2019)
+    - type: Research Track
+      host: International Conference on Mining Software Repositories (MSR 2016–2018)
+    - type: Research Track
+      host: International Conference on Software Analysis, Evolution, and Reengineering (SANER 2018–2019)
+    - type: Research Track
+      host: International Symposium on Empirical Software Engineering and Measurement (ESEM 2017)
+    - type: Research Track
+      host: International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2017)
+    - type: Research Track
+      host: International Conference on Program Comprehension (ICPC 2018–2019)
+    - type: Research Track
+      host: International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2017)
+    - type: Research Track
+      host: International Workshop on SoftWare ANalytics (SWAN 2016–2018)
+    
+    - type: Research Track
+      host: International Conference on Evaluation and Assessment in Software Engineering (EASE 2017)
+    - type: Research Track
+      host: International Workshop on Empirical Software Engineering in Practice (IWESEP 2014, 2017–2018)
+    - type: Formal Tool Demonstration Track
+      host: International Symposium on the Foundations of Software Engineering (FSE 2017–2018)
+    - type: Formal Tool Demonstration Track
+      host: International Conference on Program Comprehension (ICPC 2014–2016)
+    - type: Formal Tool Demonstration Track
+      host: International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016)
+    - type: Formal Tool Demonstration Track
+      host: International Conference on Software Maintenance and Evolution (ICSME 2014)
+    - type: Artifact Evaluation Track
+      host: International Symposium on the Foundations of Software Engineering (FSE 2014)
+    - type: Mining Challenge Track
+      host: Working Conference on Mining Software Repositories (MSR 2015)
+    - type: Data Showcase Committee
+      host: Working Conference on Mining Software Repositories (MSR 2013, 2015–2016)
 
-- title: Formal Tool Demonstrations Program Committee
-  host:
-    - International Symposium on the Foundations of Software Engineering (FSE 2017)
-    - International Conference on Program Comprehension (ICPC 2016)
-    - International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016)
-    - International Conference on Program Comprehension (ICPC 2015)
-    - International Conference on Software Maintenance and Evolution (ICSME 2014)
-    - International Conference on Program Comprehension (ICPC 2014)
-
-- title: Artifact Evaluation Committee
-  host:
-    - International Symposium on the Foundations of Software Engineering (FSE 2014)
-
-- title: Mining Challenge Committee
-  host:
-    - Working Conference on Mining Software Repositories (MSR 2015)
-
-- title: Data Showcase Committee
-  host:
-    - Working Conference on Mining Software Repositories (MSR 2016)
-    - Working Conference on Mining Software Repositories (MSR 2015)
-    - Working Conference on Mining Software Repositories (MSR 2013)
-
-- title: Reviewer
-  host:
-    - Transactions on Software Engineering (TSE)
-    - Empirical Software Engineering (EMSE)
-    - Automated Software Engineering (AUSE)
-    - Information and Software Technology (IST)
-    - Journal of Software and Systems (JSS)
-    - IEEE Software
+- title: Service for International Journals
+  roles:
+    - type: Associate Editor
+      host: Journal of Systems and Software (2017–Present)
+    - type: Reviewer
+      host: Transactions on Software Engineering (TSE)
+    - type: Reviewer
+      host: Empirical Software Engineering (EMSE)
+    - type: Reviewer
+      host: Automated Software Engineering (AUSE)
+    - type: Reviewer
+      host: Information and Software Technology (IST)
+    - type: Reviewer
+      host: Journal of Software and Systems (JSS)
+    - type: Reviewer
+      host: IEEE Software

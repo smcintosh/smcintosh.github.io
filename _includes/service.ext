@@ -1,7 +1,7 @@
 <span class="paper_title">{{ s.title }}</span><br />
 <ul class="servlist">
-{% for h in s.host %}
-  <li class="servitem">{{ h }}</li>
+{% for h in s.roles %}
+  <li class="servitem">{{ h.type }}, {{ h.host }}</li>
 {% endfor %}
 </ul>
 <p> </p>
