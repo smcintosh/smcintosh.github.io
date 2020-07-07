@@ -1,5 +1,11 @@
 - title: Organizational Committees
   roles:
+    - type: Proceedings Co-chair
+      host: International Conference on Software Engineering (ICSE 2022)
+    - type: General Chair
+      host: International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2021–2022)
+    - type: Student Mentorship Workshop Co-chair
+      host: International Conference on Software Engineering (ICSE 2020)
     - type: Formal Demonstrations Track Co-chair
       host: International Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)
     - type: Student Volunteer Co-chair
@@ -12,11 +18,15 @@
       host: International Workshop on Release Engineering (RELENG 2016)
     - type: Program Committee Co-chair
       host: International Workshop on Empirical Software Engineering in Practice (IWESEP 2016)
+    - type: Digital Learning Co-chair
+      host: ACM SIGSOFT (2019–Present)
 
 - title: Service for International Journals
   roles:
+    - type: Senior Associate Editor
+      host: Journal of Systems and Software (2019–Present)
     - type: Associate Editor
-      host: Journal of Systems and Software (2017–Present)
+      host: Journal of Systems and Software (2017–2019)
     - type: Reviewer
       host: Transactions on Software Engineering (TSE)
     - type: Reviewer
@@ -33,15 +43,19 @@
 - title: Program Committees
   roles:
     - type: Research Track
-      host: International Conference on Software Maintenance and Evolution (ICSME 2016–2018)
+      host: International Conference on Software Engineering (ICSE 2020–2021)
+    - type: Research Track
+      host: International Symposium on the Foundations of Software Engineering (FSE 2020)
+    - type: Research Track
+      host: International Conference on Software Maintenance and Evolution (ICSME 2016–2018, 2020)
     - type: Research Track
       host: International Conference on Automated Software Engineering (ASE 2018–2019)
     - type: Research Track
-      host: International Conference on Mining Software Repositories (MSR 2016–2018)
+      host: International Conference on Mining Software Repositories (MSR 2016–2018, 2020)
     - type: Research Track
-      host: International Conference on Software Analysis, Evolution, and Reengineering (SANER 2018–2019)
+      host: International Conference on Software Analysis, Evolution, and Reengineering (SANER 2018–2020)
     - type: Research Track
-      host: International Symposium on Empirical Software Engineering and Measurement (ESEM 2017)
+      host: International Symposium on Empirical Software Engineering and Measurement (ESEM 2017, 2020)
     - type: Research Track
       host: International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2017)
     - type: Research Track
